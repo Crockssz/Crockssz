@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Gonçalo, and I'm an engineering student with a strong interest in Java(SpringBoot) Development!
+
 - 🌱 I’m currently learning ...
 
 
