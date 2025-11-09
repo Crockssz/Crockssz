@@ -2,10 +2,7 @@
 
 My name is Gonçalo, and I'm an engineering student with a strong interest in Java(SpringBoot) Development!
 
-- I’m currently learning: ☕Java! | ☕JavaFx |
-                          .🍃SpringBoot!
-                          .🛢RDBMS!
-                          .🅰️Angular!
+- I’m currently learning: ☕Java | ☕JavaFx | 🍃SpringBoot | 🛢RDBMS | 🅰️Angular!
 
 
 <!--
